@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Vinícius Rio!](https://www.instagram.com/_viniciusrio/), a apprendice in Full Stack Web Developer using PHP with main language 🚀 from Brazil.
+Hi, I'm [Vinícius Rio!](https://www.instagram.com/_viniciusrio/), a apprentice in Full Stack Web Developer using PHP with main language 🚀 from Brazil.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
