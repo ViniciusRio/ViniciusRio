@@ -1,17 +1,5 @@
 ### Hello there <img src="https://media.giphy.com/media/35KomAE3Mj421dSv1r/giphy.gif" width="25px">
 
-<a href="https://twitter.com/_viniciusrio">
-  <img align="left" alt="Vinicius Rio | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/vlmdr/">
-  <img align="left" alt="Vinicius Rio | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/iwgupz54vhx9geov0n7hneyzh?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Vinicius Rio | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <br />
 
 Hi, I'm [Vinícius Rio!](https://www.instagram.com/_viniciusrio/), Web Developer using PHP with main language 🚀 from Brazil.
