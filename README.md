@@ -1,24 +1,54 @@
-### Hello there <img src="https://media.giphy.com/media/35KomAE3Mj421dSv1r/giphy.gif" width="25px">
+# Hi there, I'm Vinicius! 👋
 
-<br />
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to open-source projects.
 
-Hi, I'm [Vinícius Rio!](https://www.instagram.com/_viniciusrio/), Web Developer using PHP with main language 🚀 from Brazil.
+## About Me
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+- 💼 Currently working as a Backend Development at Edge (UFAL).
+- 🎓 Graduated in Bachelor of Information Systems from UNIRON - RO.
+- 🌱 Continuously learning and exploring new technologies.
+- 💬 Ask me about Java, and web development.
+- 📫 How to reach me: viniciustrave@gmail.com | https://www.linkedin.com/in/vlmdr/
 
-- 👨🏽‍💻 I’m currently working on something cool;
-- 💬 Bass Guitar is my hobby;
-- 🌱 I’m currently improve my definitions in backend.
+## My Skills
 
+### Programming Languages
 
-📊 **Summary of my time:**
-<!--START_SECTION:waka-->
-```text
-Learning|Reading  ██████████████▓░░░░░░░░░ 50.11 % 
-Bass              █████████▒░░░░░░░░░░░░░░ 30.91 % 
-Physical Exercise ██████░░░░░░░░░░░░░░░░░░ 15.46 % 
-Other             ██▒░░░░░░░░░░░░░░░░░░░░░ 05.16 % 
-```
-<!--END_SECTION:waka-->
+- Java
+- JavaScript/TypeScript
+- PHP
+- Kotlin
+
+### Web Development
+
+- HTML, CSS
+- React.js
+- Node.js
+
+### Tools & Technologies
+
+- Git & GitHub
+- Docker
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+### [Project Name](https://github.com/ViniciusRio/ProjectName)
+
+Brief description of the project and its key features.
+
+### [Another Project](https://github.com/ViniciusRio/AnotherProject)
+
+Brief description of the project and its key features.
+
+## GitHub Stats
+
+![ViniciusRio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRio&show_icons=true&theme=radical)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ViniciusRio/)
+- [Instagram](https://www.instagram.com/_viniciusrio/)
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
