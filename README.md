@@ -44,15 +44,6 @@ Brief description of the project and its key features.
 
 ## GitHub Stats
 
-![ViniciusRio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRio&show_icons=true&theme=radical)
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ViniciusRio/)
-- [Instagram](https://www.instagram.com/_viniciusrio/)
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
-
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
@@ -67,8 +58,8 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/weekly-dark.svg">
@@ -76,3 +67,10 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 </picture>
 </p>
 <!-- cool-readme:end -->
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ViniciusRio/)
+- [Instagram](https://www.instagram.com/_viniciusrio/)
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
