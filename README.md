@@ -48,22 +48,32 @@ Brief description of the project and its key features.
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/summary-light.svg" width="400" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/about-light.svg" width="400" alt="About">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/languages-light.svg" width="400" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
 </p>
 <p align="center">
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/streaks-dark.svg">
   <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
+</p>
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/weekly-dark.svg">
   <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/repos-dark.svg">
+  <img src="https://raw.githubusercontent.com/ViniciusRio/ViniciusRio/cards/repos-light.svg" width="400" alt="Top repos">
 </picture>
 </p>
 <!-- cool-readme:end -->

@@ -1,10 +1,23 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: ViniciusRio
-show: [summary, languages, streaks, weekly]
+show: [about, summary, languages, streaks, weekly, repos]
 count:
   private: true
   orgs: true
 look:
-  style: classic
-  color: github
+  style: dotmatrix
+  color: green
   background: none
+cards:
+  about:
+    headline: "Hi, I'm *Vinicius*"
+    lines:
+      - "Backend developer working with *Java* and *Kotlin*"
+      - "Currently at Edge (UFAL), building backend systems"
+      - "Side projects: Android apps in Kotlin"
+      - "Open to remote opportunities"
+    facts:
+      Stack: "Java · Kotlin · Spring · TypeScript"
+      Tools: "Git · Docker"
+      Education: "B.Sc. Information Systems (UNIRON)"
+      Based in: "Brazil"
