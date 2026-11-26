@@ -1,46 +1,44 @@
 # Hi there, I'm Vinicius! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to open-source projects.
+Backend developer working mostly with **Java** and **Kotlin**. At work I build backend systems; in my spare time I build Android apps with Jetpack Compose and web projects with a Spring Boot backend.
 
 ## About Me
 
-- 💼 Currently working as a Backend Development at Edge (UFAL).
-- 🎓 Graduated in Bachelor of Information Systems from UNIRON - RO.
-- 🌱 Continuously learning and exploring new technologies.
-- 💬 Ask me about Java, and web development.
-- 📫 How to reach me: viniciustrave@gmail.com | https://www.linkedin.com/in/vlmdr/
+- 💼 Backend developer at Edge (UFAL)
+- 🎓 Bachelor of Information Systems, UNIRON (RO)
+- 📱 Building offline-first Android apps in Kotlin + Jetpack Compose
+- 🌱 Currently: moving a Vue + Supabase project to a Java 21 / Spring Boot 3 backend
+- 💬 Ask me about Java, Kotlin, Spring Boot and Android
+- 📫 viniciustrave@gmail.com · [LinkedIn](https://www.linkedin.com/in/vlmdr/)
 
-## My Skills
+## Tech Stack
 
-### Programming Languages
-
-- Java
-- JavaScript/TypeScript
-- PHP
-- Kotlin
-
-### Web Development
-
-- HTML, CSS
-- React.js
-- Node.js
-
-### Tools & Technologies
-
-- Git & GitHub
-- Docker
+- **Backend:** Java 21, Kotlin, Spring Boot 3, Spring Security, PostgreSQL, Flyway
+- **Android:** Kotlin, Jetpack Compose, Material 3, Room
+- **Frontend:** Vue 3, TypeScript, Vite, Tailwind CSS
+- **Tools:** Git & GitHub, GitHub Actions, Docker, Gradle
 
 ## Projects
 
-Here are some of the projects I've been working on:
+### [Tostão](https://github.com/ViniciusRio/tostao)
 
-### [Project Name](https://github.com/ViniciusRio/ProjectName)
+Offline personal finance app for Android: accounts, transactions, recurring bills, budgets, monthly reports with charts, JSON backup and CSV export. Money stored as integer cents, with the domain logic in plain Kotlin covered by unit tests. *Kotlin · Jetpack Compose · Room*
 
-Brief description of the project and its key features.
+### [Timer Jitsu](https://github.com/ViniciusRio/timerjitsu)
 
-### [Another Project](https://github.com/ViniciusRio/AnotherProject)
+Interval workout timer for Android with sets, cycles, rest and cooldown, a stopwatch with laps, and templates. Runs in the background through a foreground service, and all sounds are synthesized in code. *Kotlin · Jetpack Compose*
 
-Brief description of the project and its key features.
+### [Vem Dançar JP](https://github.com/ViniciusRio/vemdancarjp)
+
+Weekly forró schedule for João Pessoa, live at [vemdancarjp.com.br](https://vemdancarjp.com.br), with an admin dashboard to manage it. Being migrated from Supabase to a self-hosted backend. *Vue 3 · TypeScript · Java 21 · Spring Boot 3 · PostgreSQL · Docker*
+
+### [Dengo](https://github.com/ViniciusRio/dengo-app)
+
+Android prototype for couples to share small gestures of care: care requests that can be accepted and acknowledged, moods, a shared note wall with hand-drawn notes, and a history timeline. Data stored locally with Room, with ViewModel-backed Compose screens and instrumentation tests for the UI flows. *Kotlin · Jetpack Compose · Room*
+
+### [Real Software Development](https://github.com/ViniciusRio/real-software-dev)
+
+Exercises and tests from the book *Real-World Software Development* (Urma & Warburton), practising design and testing in Java. *Java*
 
 ## GitHub Stats
 
@@ -80,7 +78,7 @@ Brief description of the project and its key features.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ViniciusRio/)
+- [LinkedIn](https://www.linkedin.com/in/vlmdr/)
 - [Instagram](https://www.instagram.com/_viniciusrio/)
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch.

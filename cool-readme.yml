@@ -14,7 +14,7 @@ cards:
     lines:
       - "Backend developer working with *Java* and *Kotlin*"
       - "Currently at Edge (UFAL), building backend systems"
-      - "Side projects: Android apps in Kotlin"
+      - "Side projects: Android apps in Kotlin + Compose"
       - "Open to remote opportunities"
     facts:
       Stack: "Java · Kotlin · Spring · TypeScript"
